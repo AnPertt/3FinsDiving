@@ -1,0 +1,10 @@
+button {
+  background-color: lightseagreen;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+button:hover {
+  background-color: orchid;
+  color: white;
+}
