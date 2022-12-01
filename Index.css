@@ -13,7 +13,19 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: white;  
+}
+
+header h2{
+  font-family: copperplate;
+}
+
+header p{
+  font-style:italic;
+}
+
+header li{
+  font-family: papyrus;
 }
 
 /*MOTTO*/
@@ -86,6 +98,7 @@ article {
   background-color: #ebf9f9;
   color: #165e79;
   padding: 20px;
+ 
 }
 
 
