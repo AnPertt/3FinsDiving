@@ -98,7 +98,10 @@ article {
   background-color: #ebf9f9;
   color: #165e79;
   padding: 20px;
- 
+}
+
+article p{
+  color: black;
 }
 
 
