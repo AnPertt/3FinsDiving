@@ -9,7 +9,7 @@ body {
 
 /*HEADER*/
 header {
-  background-color: #698;
+  background-color: #43c5c3;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -20,7 +20,7 @@ header {
 p {
   margin-top:-40px;
   font-size: 20px;
-  color: #404;
+  color: white;
   margin-bottom: 70px;
 }
 
@@ -31,8 +31,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #002;
-  
+  background-color:#165e79;
 }
 
 li {
@@ -42,7 +41,7 @@ li {
 
 li a {
   display: block;
-  color: #696;
+  color: white;
   text-align: center;
   padding: 5px 60px;
   text-decoration: none;
@@ -51,9 +50,12 @@ li a {
 
 
 li a:hover {
-  background-color: #005;
+  background-color: #003;
 }
 
+.active {
+  background-color: #04AA6D;
+}
 
 /* Container for flexboxes */
 section {
@@ -66,7 +68,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background: #696;
+  background: #aee6e5;
   padding: 20px;
 }
 
@@ -81,13 +83,15 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: #f1f1f1;
-  padding: 10px;
+  background-color: #ebf9f9;
+  color: #165e79;
+  padding: 20px;
 }
+
 
 /* Style the footer */
 footer {
-  background-color: #486;
+  background-color: #165e79;
   padding: 30px;
   text-align: center;
   color: white;
