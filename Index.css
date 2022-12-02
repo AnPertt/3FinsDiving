@@ -9,7 +9,7 @@ body {
 
 /*HEADER VIDEO*/
 /* Style the video: 100% width and height to cover the entire window */
-video {
+#myVideo {
   position: fixed;
   right: 0;
   bottom: 0;
