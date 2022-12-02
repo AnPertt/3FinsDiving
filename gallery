@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="Index.css">
+<title>3Fins Diving</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+
+
+<header>
+  <h2>3Fins Diving</h2>
+  <p>Underwater entertainment since 2014</p>
+  <ul>
+  <li value="home"><b><a href="index.html" title="Home Page">Home</a></b></li>
+    <li value="our_team"><b><a href="ourTeam.html" title="Our Team">Our Team</a></b></li>
+    <li value="past_events"><b><a href="pastEvent.html" title="P">Past Events</a></b></li>
+    <li value="gallery"><b><a href="gallery.html" title="Gallery">Gallery</a></b></li>
+    <li value="book_us"><b><a href="bookus.html" title="Book us for event" >Book us!</a></b> 
+</ul>
+</header>
+
+<section>
+  <nav>
+    
+  </nav>
+  
+  <article>
+    <h1>Gallery</h1>
+  
+    <p>3Fins Diving offers breathtaking moments underwater! We specialize in underwater entertainment and speciality diving. Our motto is that everything can contain magic! </p>
+  <p>3Fins diving is a team of underwater performers and diving specialist, logistic and light/sounds specialists who together create performances for all kinds of events.
+  </article>
+</section>
+  
+  <section>
+
+    <nav>
+    
+  </nav>
+  <article>
+    
+  </article>
+</section>
+  
+
+<footer>
+  <p></p>
+</footer>
+  
+
+
+</body>
+</html>
