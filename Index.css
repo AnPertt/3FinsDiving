@@ -42,7 +42,9 @@ ul {
 
 li {
   float: left;
-  .active {
+}
+  
+li a:active {
   background-color: #04AA6D;
 }
 
