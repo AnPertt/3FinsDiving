@@ -12,7 +12,11 @@ header {
   background-color: #43c5c3;
   padding: 20px;
   text-align: center;
+  display: flex;
+  max-width: 100%;
+  height: auto;
 }
+
 
 header h2{
   font-family: copperplate;
