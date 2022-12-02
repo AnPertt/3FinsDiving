@@ -18,7 +18,7 @@ body {
 }
 
 /* Add some content at the bottom of the video/page */
-#myVideo.content {
+.content {
   position: fixed;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
