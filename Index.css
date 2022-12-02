@@ -9,7 +9,7 @@ body {
 
 /*HEADER VIDEO*/
 /* Style the video: 100% width and height to cover the entire window */
-#headervideo {
+#myVideo {
   position: fixed;
   right: 0;
   bottom: 0;
@@ -18,7 +18,7 @@ body {
 }
 
 /* Add some content at the bottom of the video/page */
-.content {
+#myVideo.content {
   position: fixed;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
