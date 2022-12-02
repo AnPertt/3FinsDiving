@@ -13,15 +13,18 @@ body {
   position: fixed;
   right: 0;
   bottom: 0;
-  width: 50%;
-  height: 50%; 
+  /*width: 50%;
+  height: 50%; */
   
   
 }
 
 video{
   display: flex;
+  max-width: 100%;
+  height: auto;
 }
+
 
 
 /*HEADER*/
