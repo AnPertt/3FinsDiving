@@ -30,21 +30,7 @@ header {
   text-align: center;
 }
 
-header h2{
-  font-family: copperplate;
-  font-size: 70px;
-  color: white;  
-   position: fixed;
-}
 
-header p{
-  font-style:italic;
-  margin-top:-50px;
-  font-size: 20px;
-  color: white;
-  margin-bottom: 70px;
-   position: fixed;
-}
 
 
 
