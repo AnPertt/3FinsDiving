@@ -8,14 +8,7 @@ body {
 }
 
 /*HEADER VIDEO*/
-/* Style the video: 100% width and height to cover the entire window */
-#headervideo {
-  position: fixed;
-  right: 0;
-  bottom: 0; 
-}
-
-video{
+video {
   display: flex;
   max-width: 100%;
   height: auto;
@@ -57,7 +50,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 5px 65px;
+  padding: 5px 45px;
   text-decoration: none;
   font-size: 24px;
   font-family: papyrus;
