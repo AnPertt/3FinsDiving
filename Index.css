@@ -13,16 +13,12 @@ video {
 }
 
 
-
 /*HEADER*/
 header {
   background-color: #43c5c3;
   padding: 20px;
   text-align: center;
 }
-
-
-
 
 
 /*NAVIGATION BAR*/
@@ -83,8 +79,6 @@ nav ul {
 
 /* Style the content */
 article {
-  -webkit-flex: 3;
-  -ms-flex: 3;
   flex: 3;
   background-color: #ebf9f9;
   color: #165e79;
@@ -104,9 +98,4 @@ footer {
   color: white;
 }
 
-/* Responsive layout - */
-@media (max-width: 600px) {
-  section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
+
