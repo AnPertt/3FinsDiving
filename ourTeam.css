@@ -12,6 +12,9 @@ header {
   background-color: #43c5c3;
   padding: 20px;
   text-align: center;
+}
+
+image{
   display: flex;
   max-width: auto;
   height: auto;
