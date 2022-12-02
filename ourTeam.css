@@ -14,12 +14,10 @@ header {
   text-align: center;
 }
 
-image{
-  display: flex;
-  max-width: auto;
+.responsive {
+  max-width: 100%;
   height: auto;
 }
-
 
 
 
