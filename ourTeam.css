@@ -14,7 +14,7 @@ header {
   text-align: center;
 }
 
-#headerimage{
+img {
   max-width: 100%;
   height: auto;
   display:flex;
