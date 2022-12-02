@@ -42,6 +42,8 @@ ul {
 
 li {
   float: left;
+  .active {
+  background-color: #04AA6D;
 }
 
 
@@ -60,9 +62,6 @@ li a:hover {
   background-color: #003;
 }
 
-li.active {
-  background-color: #04AA6D;
-}
 
 /* Container for flexboxes */
 section {
